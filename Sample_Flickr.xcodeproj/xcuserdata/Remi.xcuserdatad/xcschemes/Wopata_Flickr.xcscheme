@@ -16,8 +16,8 @@
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "A50A8C7618E47B8900AD1F53"
                BuildableName = "Wopata_Flickr.app"
-               BlueprintName = "Wopata_Flickr"
-               ReferencedContainer = "container:Wopata_Flickr.xcodeproj">
+               BlueprintName = "Sample_Flickr"
+               ReferencedContainer = "container:Sample_Flickr.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -34,8 +34,8 @@
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "A50A8C9A18E47B8900AD1F53"
                BuildableName = "Wopata_FlickrTests.xctest"
-               BlueprintName = "Wopata_FlickrTests"
-               ReferencedContainer = "container:Wopata_Flickr.xcodeproj">
+               BlueprintName = "Sample_FlickrTests"
+               ReferencedContainer = "container:Sample_Flickr.xcodeproj">
             </BuildableReference>
          </TestableReference>
       </Testables>
@@ -44,8 +44,8 @@
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "A50A8C7618E47B8900AD1F53"
             BuildableName = "Wopata_Flickr.app"
-            BlueprintName = "Wopata_Flickr"
-            ReferencedContainer = "container:Wopata_Flickr.xcodeproj">
+            BlueprintName = "Sample_Flickr"
+            ReferencedContainer = "container:Sample_Flickr.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
    </TestAction>
@@ -63,8 +63,8 @@
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "A50A8C7618E47B8900AD1F53"
             BuildableName = "Wopata_Flickr.app"
-            BlueprintName = "Wopata_Flickr"
-            ReferencedContainer = "container:Wopata_Flickr.xcodeproj">
+            BlueprintName = "Sample_Flickr"
+            ReferencedContainer = "container:Sample_Flickr.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
       <AdditionalOptions>
@@ -81,8 +81,8 @@
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "A50A8C7618E47B8900AD1F53"
             BuildableName = "Wopata_Flickr.app"
-            BlueprintName = "Wopata_Flickr"
-            ReferencedContainer = "container:Wopata_Flickr.xcodeproj">
+            BlueprintName = "Sample_Flickr"
+            ReferencedContainer = "container:Sample_Flickr.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>
